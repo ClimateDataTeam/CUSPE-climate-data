@@ -1,0 +1,11 @@
+Category	Scope 1	Scope 2	Scope 3	" Carbon footprint 2020-21 (tonnes CO2e) (scopes 1,2&3) "	Additional outside of scopes
+Buildings & utilities	" 1,254 "	" 4,388 "	" 1,246 "	" 6,887 "	
+Transport	 590 	 -   	" 3,446 "	" 4,037 "	 181.47 
+Waste	 -   	 -   	" 39,320 "	" 39,320 "	 -   
+Schools (maintained)	 -   	 -   	" 7,397 "	" 7,397 "	 -   
+Agriculture	 -   	 -   	" 14,511 "	" 14,511 "	
+"Land use, land use change and forestry"	 -   	 -   	" 24,490 "	" 24,490 "	
+Construction materials	 -   	 -   	" 4,979 "	" 4,979 "	
+Highways materials	 -   	 -   	" 11,980 "	" 11,980 "	
+Other	 -   	 -   	 -   	 -   	
+TOTAL	" 1,844 "	" 4,388 "	" 107,369 "	" 113,601 "	 181.47 
